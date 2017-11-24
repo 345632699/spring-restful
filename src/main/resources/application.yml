@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/travel?serverTimezone=UTC&useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis:
+  type-aliases-package: com.resetful.model
+#  mapper-locations: classpath:mybatis/mapper/*.xml
+#  config-location: classpath:mybatis/mybatis-config.xml
