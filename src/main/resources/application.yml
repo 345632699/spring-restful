@@ -6,5 +6,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
 mybatis:
   type-aliases-package: com.resetful.model
+server:
+  port: 8081
 #  mapper-locations: classpath:mybatis/mapper/*.xml
 #  config-location: classpath:mybatis/mybatis-config.xml

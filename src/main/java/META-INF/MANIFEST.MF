@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Class-Path: spring-boot-starter-log4j-1.3.8.RELEASE.jar mybatis-spring
+ -1.3.1.jar jcl-over-slf4j-1.7.25.jar spring-jdbc-4.3.12.RELEASE.jar m
+ ybatis-3.4.5.jar spring-tx-4.3.12.RELEASE.jar spring-boot-autoconfigu
+ re-1.5.8.RELEASE.jar spring-boot-starter-web-1.5.8.RELEASE.jar gson-2
+ .8.4.jar jackson-databind-2.8.10.jar tomcat-annotations-api-8.5.23.ja
+ r snakeyaml-1.17.jar jul-to-slf4j-1.7.25.jar slf4j-api-1.7.25.jar val
+ idation-api-1.1.0.Final.jar spring-boot-starter-jdbc-1.5.8.RELEASE.ja
+ r tomcat-juli-8.5.23.jar hibernate-validator-5.3.5.Final.jar spring-w
+ eb-4.3.12.RELEASE.jar spring-boot-1.5.8.RELEASE.jar jackson-core-2.8.
+ 10.jar spring-beans-4.3.12.RELEASE.jar spring-aop-4.3.12.RELEASE.jar 
+ spring-boot-starter-1.5.8.RELEASE.jar spring-context-4.3.12.RELEASE.j
+ ar mybatis-spring-boot-autoconfigure-1.3.1.jar slf4j-log4j12-1.7.25.j
+ ar tomcat-embed-core-8.5.23.jar spring-webmvc-4.3.12.RELEASE.jar jack
+ son-annotations-2.8.0.jar android-json-0.0.20131108.vaadin1.jar tomca
+ t-jdbc-8.5.23.jar jboss-logging-3.3.1.Final.jar spring-boot-starter-t
+ omcat-1.5.8.RELEASE.jar tomcat-embed-el-8.5.23.jar tomcat-embed-webso
+ cket-8.5.23.jar mysql-connector-java-5.1.44.jar mybatis-spring-boot-s
+ tarter-1.3.1.jar lombok-1.16.18.jar log4j-1.2.17.jar spring-core-4.3.
+ 12.RELEASE.jar spring-expression-4.3.12.RELEASE.jar classmate-1.3.4.j
+ ar
+Main-Class: com.resetful.ResetfulApplication
+
